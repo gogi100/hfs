@@ -90,7 +90,8 @@
         "Forbidden": "Забрањено", 
         "Not found": "Није пронађено", 
         "Server error": " Сервер Грешка (-50021)", 
-
+        "upload_finished": "{n,plural, one{#  успрешно пребачен} other{# успешно пребачена}} ({size})",
+        "upload_errors": "{n,plural, one{# неуспешно пребачен} other{# неуспешно пребачена}}",
         "Hits: ": "↓" 
     } 
 }
